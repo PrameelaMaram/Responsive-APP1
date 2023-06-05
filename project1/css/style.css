@@ -42,7 +42,10 @@ header .nav-item:last-child {
   
   header .container{
     
-    background-image:url('Athleta-main1.jpg');
+    background-image:url('athleta-main1.jpg');
+    background-size: cover;
+   background-repeat: no-repeat;
+
     /* fallback for old browsers */
   
   }
