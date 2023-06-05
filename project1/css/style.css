@@ -64,11 +64,11 @@ header .nav-item:last-child {
   .section-3 {
     padding: 2vmin 1vmin;
   }
-  .section-3 .col-md-12{
+  .section-3 .col-sm-12{
     padding: 1vmin;
   }
   footer {
     background: rgba(232, 227, 227, 0.815);
     overflow-x: hidden;
-    padding: 10vmin 12vmin;
+    padding: 5vmin 8vmin;
   }
